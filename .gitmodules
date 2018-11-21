@@ -1,3 +1,4 @@
 [submodule "jwt-erl"]
 	path = jwt-erl
 	url = https://github.com/niinortey/jwt-erl.git
+	branch = stable
